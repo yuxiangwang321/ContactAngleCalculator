@@ -1,5 +1,5 @@
 *************** ContactAngleCalculator ***************
- **************** Updata information ****************
+ **************** Update information ****************
 
 Questions, comments, suggestions, new ideas, whatever, please email to: yuxiangwang123@gmail.com
 
